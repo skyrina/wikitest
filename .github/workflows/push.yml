@@ -1,7 +1,7 @@
 name: Sync wiki
 on:
     push:
-        branches: [ master ]
+        branches: [ main ]
 
 jobs:
     sync_wiki:
